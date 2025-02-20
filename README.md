@@ -42,7 +42,7 @@ portfolio-app/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio-app.git
+git clone https://github.com/captainxprince/portfolio-updated.git
 ```
 
 2. Navigate to project directory:
